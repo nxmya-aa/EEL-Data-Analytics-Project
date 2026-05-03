@@ -69,4 +69,5 @@ The project highlights important relationships between demand, pricing, inventor
 
 * Dataset (CSV format)
 * Processed Excel sheets
-* Tableau Dashboard
+* Tableau
+* Presentation
